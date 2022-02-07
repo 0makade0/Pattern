@@ -20,7 +20,6 @@ namespace Pattering
             Console.WriteLine();
 
             decoyduck.Display();
-            Console.WriteLine();
 
             Console.WriteLine("Убийство рыжей уточки");
             redheadduck.Dead();
